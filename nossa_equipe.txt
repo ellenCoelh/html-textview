@@ -1,6 +1,5 @@
 
 Dalton
-
 Paulo Júnior
 Kassio Thomaz
 Anderson
@@ -13,4 +12,9 @@ Rafael Vitor
 Bartira Ribeiro
 Rubens Cha
 Brenda Wyctória
+Leonardo
+Guilherme
+Thiago
+Marcos
+
 
